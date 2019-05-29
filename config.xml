@@ -13,5 +13,13 @@ Trò chơi trí tuệ nhân tạo
 <author href="https://example.com" email="you@example.com">
 Một trò chơi của GMT Solution
 </author>
+<platform name="android">
+  <icon background="favicon.ico" density="ldpi" foreground="favicon.ico" />
+  <icon background="favicon.ico" density="mdpi" foreground="favicon.ico" />
+  <icon background="favicon.ico" density="hdpi" foreground="favicon.ico" />
+  <icon background="favicon.ico" density="xhdpi" foreground="favicon.ico" />
+  <icon background="favicon.ico" density="xxhdpi" foreground="favicon.ico" />
+  <icon background="favicon.ico" density="xxxhdpi" foreground="favicon.ico" />
+</platform>
 
 </widget>
